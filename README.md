@@ -1,2 +1,2 @@
-FoodBox
+
 Food_Box is a ready-to-distribute package that contains a selection of essential and nutritious food items. It is designed to support meal preparation, food relief efforts, or daily consumption, offering convenience, balance, and accessibility in one box. Each Food_Box is thoughtfully curated to include a variety of non-perishable items, ensuring a long shelf life and easy storage. Whether used for humanitarian aid, community support programs, or personal meal planning, Food_Box provides a reliable solution for delivering consistent nutrition with minimal preparation. Its compact, durable packaging makes it ideal for transport and distribution across a wide range of environments and needs.
